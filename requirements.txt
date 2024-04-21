@@ -1,0 +1,5 @@
+flask>=2.0.0
+functions-framework
+vertexai
+vertexai-preview-language-models
+google-cloud-aiplatform
